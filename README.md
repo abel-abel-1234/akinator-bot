@@ -1,0 +1,2 @@
+# akinator-bot
+aki
